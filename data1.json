@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2001",
+    "title": "Gold Market Breakout: Fibonacci 61.8% Level",
+    "category": "finance",
+    "hero_image": "https://images.unsplash.com/photo-1502920514313-52581002a659?w=800",
+    "content_blocks": [
+      {
+        "stanza": "The gold market has hit a critical resistance zone today. Analysts are keeping a close eye on the $2,450 support level as institutional buying remains steady despite the current dollar strength.",
+        "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=500"
+      },
+      {
+        "stanza": "Our technical analysis reveals a perfect Fibonacci retracement hitting the 61.8% level. This harmonic pattern suggests a strong bullish continuation is likely before the London session close.",
+        "image": "https://images.unsplash.com/photo-1633156189779-2143ca3ee637?w=500"
+      }
+    ],
+    "conclusion": "Technical indicators and central bank reserves both point toward a sustained uptrend for the remainder of the month.",
+    "timestamp": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": "2002",
+    "title": "Manchester City vs Arsenal: Tactical Masterclass",
+    "category": "sports",
+    "hero_image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=800",
+    "content_blocks": [
+      {
+        "stanza": "The Premier League title race reaches a boiling point as the two giants prepare for their head-to-head clash. Pep's midfield rotation will be the key factor in breaking down the Gunners' high press.",
+        "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=500"
+      },
+      {
+        "stanza": "Arsenal's defensive solidity has been unmatched this season. Their ability to transition from a low block to a lightning-fast counter-attack makes them the most dangerous visiting team in the league.",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=500"
+      }
+    ],
+    "conclusion": "Fitness levels in the final 15 minutes will ultimately decide which team takes home the three points in this title-decider.",
+    "timestamp": "2026-03-01T10:15:00Z"
+  },
+  {
+    "id": "2003",
+    "title": "Global Trade Summit: New Policy Shift",
+    "category": "politics",
+    "hero_image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+    "content_blocks": [
+      {
+        "stanza": "World leaders have gathered to discuss the new international trade agreements. The focus remains on sustainable energy and reducing carbon tariffs across major manufacturing hubs.",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500"
+      },
+      {
+        "stanza": "A surprise proposal regarding digital currency regulation has shifted the tone of the summit, with several nations calling for a unified framework to handle cross-border blockchain transactions.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=500"
+      }
+    ],
+    "conclusion": "The summit ends with a historic memorandum that could reshape economic ties between the East and West for the next decade.",
+    "timestamp": "2026-03-01T08:30:00Z"
+  },
+  {
+    "id": "2004",
+    "title": "Top 10 Global Music Charts: March 2026",
+    "category": "music",
+    "hero_image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800",
+    "content_blocks": [
+      {
+        "stanza": "Afrobeats continues its global dominance as three new tracks enter the Billboard top 10 this week. The production quality and infectious rhythms are redefining modern pop music standards.",
+        "image": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?w=500"
+      },
+      {
+        "stanza": "Vinyl sales have reached a 40-year high, indicating a massive shift in how fans consume music. High-fidelity audio and physical collectibles are becoming the main revenue stream for independent artists.",
+        "image": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?w=500"
+      }
+    ],
+    "conclusion": "The industry is moving toward a more artist-centric model, where niche communities drive chart success more than traditional radio.",
+    "timestamp": "2026-03-01T11:00:00Z"
+  },
+  {
+    "id": "2005",
+    "title": "DIY Engineering: Building a Water Turbine",
+    "category": "others",
+    "hero_image": "https://images.unsplash.com/photo-1509391366360-fe5bb6583129?w=800",
+    "content_blocks": [
+      {
+        "stanza": "Generating your own power is easier than ever with this raw material turbine design. Using simple copper wiring and high-grade magnets, you can build a 12V generator for under $50.",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=500"
+      },
+      {
+        "stanza": "The secret lies in the blade pitch. By angling the PVC pipes at exactly 15 degrees, you maximize water flow pressure, resulting in a 20% increase in electrical output compared to flat designs.",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500"
+      }
+    ],
+    "conclusion": "This project is a perfect entry point for anyone looking to understand the fundamentals of renewable energy and electrical engineering.",
+    "timestamp": "2026-03-01T07:45:00Z"
+  }
+]
