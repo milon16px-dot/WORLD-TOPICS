@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6001",
+    "title": "The Rise of AI Video: Automating Social Media",
+    "category": "others",
+    "hero_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "content_blocks": [
+      {
+        "stanza": "Content creation is undergoing a massive shift as AI video models become more accessible. Creators are now able to generate high-fidelity clips from simple text prompts, reducing production time by 80%.",
+        "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500"
+      },
+      {
+        "stanza": "The core of this automation lies in the 'Video Factory' workflow. By connecting scripts to voiceover AI and then to visual generation models, a single developer can manage dozens of faceless channels.",
+        "image": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?w=500"
+      },
+      {
+        "stanza": "Engagement metrics for AI-generated short-form content are skyrocketing on TikTok and YouTube Shorts. The fast-paced, high-energy style of these videos is perfect for capturing modern attention spans.",
+        "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=500"
+      },
+      {
+        "stanza": "However, the key to long-term success isn't just quantity; it's the quality of the '3D explanatory' style. Using physics-based animations helps viewers understand complex topics much faster than traditional editing.",
+        "image": "https://images.unsplash.com/photo-1633167606207-d840b5070fc2?w=500"
+      }
+    ],
+    "conclusion": "Automation is the future of digital presence. Those who master the AI pipeline early will dominate the search algorithms of 2026.",
+    "timestamp": "2026-03-01T11:45:00Z"
+  },
+  {
+    "id": "6002",
+    "title": "Crypto Scalping: The 5-Minute Zone Strategy",
+    "category": "finance",
+    "hero_image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800",
+    "content_blocks": [
+      {
+        "stanza": "Scalping in the crypto market requires precision and speed. The 5-minute chart is the battlefield where market structure reveals the true intent of institutional big players before the retail crowd reacts.",
+        "image": "https://images.unsplash.com/photo-1640343834735-60d5296d827c?w=500"
+      },
+      {
+        "stanza": "The 'Zone Theory' focuses on supply and demand levels rather than lagging indicators. By identifying where price consolidated previously, we can predict exactly where the next bounce will occur.",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=500"
+      },
+      {
+        "stanza": "Fibonacci retracements are then applied to these zones. A confluence between a demand zone and the 61.8% level provides a high-probability entry with a very tight stop-loss for maximum safety.",
+        "image": "https://images.unsplash.com/photo-1633156189779-2143ca3ee637?w=500"
+      },
+      {
+        "stanza": "Risk management is the final pillar. By aiming for a 1:3 reward ratio, a trader only needs a 40% win rate to remain profitable over a long series of trades in a volatile market.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=500"
+      }
+    ],
+    "conclusion": "Discipline in the 5-minute timeframe separates successful scalpers from those who gamble away their equity.",
+    "timestamp": "2026-03-01T10:20:00Z"
+  }
+]
